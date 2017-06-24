@@ -1,0 +1,5 @@
+export const LOAD_MORE = 'LOAD_MORE'
+export const RELOAD = 'RELOAD'
+export const SET_PARAM = 'SET_PARAM'
+export const RECEIVE_POIS = 'RECEIVE_POIS'
+export const RECEIVE_LIST = 'RECEIVE_LIST'
